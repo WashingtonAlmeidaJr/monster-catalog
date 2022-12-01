@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="app-title">Monster Catalog</h1>
+      <h1 className="app-title">Monster Catalog Commit</h1>
 
       <SearchBox
         className="search-box"
